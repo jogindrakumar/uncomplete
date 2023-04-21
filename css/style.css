@@ -1,0 +1,43 @@
+.collapse .nav-item a {
+    font-size: 1.5rem;
+}
+
+.navigation-section .navbar-brand {
+    font-size: 2rem;
+}
+
+.navigation-section .navbar-brand .heading {
+    background-color: #14A44D;
+    color: whitesmoke;
+    padding: 10px;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.navigation-section .navbar-brand .subheading {
+    background-color: #fff;
+    color: rgb(252, 110, 33);
+    padding: 10px;
+    border-radius: 0px 10px 10px 0px;
+}
+
+.collapse .nav-item a:hover {
+    background-color: rgb(252, 110, 33);
+    color: whitesmoke;
+}
+
+.about-pic img {
+    width: 150%;
+    height: auto;
+}
+
+.about-text h2 {
+    margin-top: 12%;
+    margin-left: 20%;
+    font-size: 2rem;
+}
+
+.about-text p {
+    margin-top: 2%;
+    margin-left: 20%;
+    font-size: 1.5rem;
+}
