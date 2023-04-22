@@ -41,3 +41,34 @@
     margin-left: 20%;
     font-size: 1.5rem;
 }
+
+.play-container {
+    margin-top: 1%;
+    margin-left: 20%;
+    font-size: 1.5rem;
+}
+
+.play-container a {
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 1.2rem;
+}
+
+
+/* .feature-box {
+    width: 50%;
+    background-color: #cabbbb;
+    margin: 1px;
+} */
+
+.card:hover {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border: .2px solid coral;
+    cursor: pointer;
+}
+
+
+/* .play-btn {
+    margin-top: 100px;
+    font-size: 2rem;
+} */
