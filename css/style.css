@@ -1,9 +1,12 @@
+.top-header-img{
+    width: 100%;
+}
 .collapse .nav-item a {
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 
 .navigation-section .navbar-brand {
-    font-size: 2rem;
+    font-size: 1.2rem;
 }
 
 .navigation-section .navbar-brand .heading {
@@ -60,10 +63,13 @@
     background-color: #cabbbb;
     margin: 1px;
 } */
-
+.card{
+    transition: all .2s ease-in-out;
+}
 .card:hover {
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     border: .2px solid coral;
+    transform: scale(1.1);
     cursor: pointer;
 }
 
